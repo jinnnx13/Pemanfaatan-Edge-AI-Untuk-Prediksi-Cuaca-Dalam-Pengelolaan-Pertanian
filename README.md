@@ -5,3 +5,10 @@ This Project Focuses on Implementing Artificial Intelligence with Edge Devices, 
 
 # Problem Statement
 
+# Dataset
+
+# Edge Architechture
+
+# Flowchart
+
+# Foto
