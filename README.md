@@ -1,2 +1,7 @@
 # Pemanfaatan-Edge-AI-Untuk-Prediksi-Cuaca-Dalam-Pengelolaan-Pertanian
-This Repository is used to store and submit code for Edge Computing Class
+
+# Project Description
+This Project Focuses on Implementing Artificial Intelligence with Edge Devices, Primarily Implementing it on Raspberry Pi 3 and using Sensors as an input.
+
+# Problem Statement
+
