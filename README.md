@@ -35,8 +35,8 @@ This Project Focuses on Implementing Artificial Intelligence with Edge Devices, 
    - Boosts agricultural productivity and sustainability.
 
 # Dataset
-We used public dataset provided from kaggle in the link below
-[Weather Classification Dataset - Kaggle} (https://www.kaggle.com/datasets/nikhil7280/weather-type-classification)
+We used public dataset provided from kaggle in the link below:
+- [Weather Classification Dataset - Kaggle} (https://www.kaggle.com/datasets/nikhil7280/weather-type-classification)
 
 # Edge Architechture
 
